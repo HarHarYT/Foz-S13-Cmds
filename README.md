@@ -9,11 +9,12 @@
 - **slomo**: Freezes you in place, allowing only camera movement.
 - **fov**: Adjusts the field of view. Default: 80. Valid range: 00 to 179.
 
-## Messaging and Teleportation
+## My fav Commands
 
-- **say**: Sends a message to the console.
+- **exit**: Closes the game.
 - **teleport**: Teleportation command (use cautiously).
 - **stat fps on/off**: Toggles FPS display.
+- **GameVersion**: Gives sensitive Info.
 
 ## Gameplay Customization
 
